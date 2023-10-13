@@ -27,11 +27,12 @@ Before running the program, make sure you have the following installed:
 - When you click the "Generate Airfoil" button, the coordinates will be saved to a file named naca_airfoil_coordinates.csv on your desktop.
 - 
 ## License
-This project is licensed under the MIT License - see the License file for details.
+This project is licensed under the MIT License with an attribution clause - see the License file for details.
 
 ## Acknowledgments
 - Background image source:
-
+- https://www.freepik.com/free-ai-image/luxury-design-private-jet-flying-clouds-ai-generated-image_45138255.htm#fromView=search&term=aeronautics&page=1&position=37&track=ais_ai_generated&regularType=ai
+- Image Author: ojosujono96
 ## Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or create a pull request.
 
