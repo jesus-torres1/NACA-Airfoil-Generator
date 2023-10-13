@@ -21,7 +21,10 @@ Before running the program, make sure you have the following installed:
 
 ## Usage
 - Run the application, and the GUI window will appear.
-- Enter the NACA parameters M, P, and T in the input fields.
+- Enter the NACA parameters M, P, and T in the input fields:
+- M (float): Maximum camber as a decimal (e.g., 0.02 for 2% camber).
+- P (float): Location of maximum camber as a decimal (e.g., 0.4 for 40% chord).
+- T (float): Thickness as a decimal (e.g., 0.12 for 12% thickness).
 - Click the "Generate Airfoil" button to generate and display the airfoil plot.
 - The airfoil plot will be shown in the embedded Matplotlib canvas.
 - When you click the "Generate Airfoil" button, the coordinates will be saved to a file named naca_airfoil_coordinates.csv on your desktop.
