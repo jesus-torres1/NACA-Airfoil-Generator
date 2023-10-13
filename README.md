@@ -25,7 +25,7 @@ Before running the program, make sure you have the following installed:
 - Click the "Generate Airfoil" button to generate and display the airfoil plot.
 - The airfoil plot will be shown in the embedded Matplotlib canvas.
 - When you click the "Generate Airfoil" button, the coordinates will be saved to a file named naca_airfoil_coordinates.csv on your desktop.
-- 
+
 ## License
 This project is licensed under the MIT License with an attribution clause - see the License file for details.
 
